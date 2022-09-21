@@ -2,7 +2,7 @@ let mongoClient = require('mongodb').MongoClient;
 
 //! connect to mongodb.============================================================
 
-let url = 'mongodb+srv://demofile:9XfQn9H1XTTzXEt3@cluster0.trwtob7.mongodb.net/?retryWrites=true&w=majority'; 
+let url = 'connectyourmongodbatlas. sorry for not giving the url because of some issue'; 
 
 mongoClient.connect(url , (err , myMongoClient)=>{
     if(err){
